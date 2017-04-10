@@ -1,0 +1,35 @@
+---
+title: "william_jow_lab8"
+author: "William Jow"
+date: ""
+output: html_document
+---
+<!-- leave this material as is -->
+Compiled on `r base::date()`.
+
+```{r include = FALSE}
+library(DataComputing)
+library(knitr)
+library(printr)
+```
+
+<!-- put your content after this line -->
+*Source file* 
+```{r, results='asis', echo=FALSE}
+includeSourceDocuments()
+```
+
+<!-- Don't edit the material above this line -->
+I have written a few words here for you to read, as per the instructions.
+
+that's kind of bland though, so here are a couple of hot bikes
+![](/home/wjow/school/compsci/stat133/github/lab8/caad4.jpg)
+![](/home/wjow/school/compsci/stat133/github/lab8/em_domo.jpg)
+(from /u/dudemanppl on reddit)
+
+<!-- html classes -->
+<style>
+  .paddedTable td {
+    padding: 0px 5px 0px;
+  }
+</style>
