@@ -20,12 +20,11 @@ includeSourceDocuments()
 ```
 
 <!-- Don't edit the material above this line -->
-I have written a few words here for you to read, as per the instructions.
+here are a few words here for you to read:
 
-that's kind of bland though, so here are a couple of hot bikes
-![](/home/wjow/school/compsci/stat133/github/lab8/caad4.jpg)
-![](/home/wjow/school/compsci/stat133/github/lab8/em_domo.jpg)
-(from /u/dudemanppl on reddit)
+hi there
+
+have fun today
 
 <!-- html classes -->
 <style>
